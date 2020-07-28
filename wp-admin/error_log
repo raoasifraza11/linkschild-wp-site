@@ -1,0 +1,5 @@
+[05-Jul-2020 09:41:05 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[05-Jul-2020 09:59:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/asifazaw/site.tritechteal.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Jul-2020 09:59:36 UTC] PHP Warning:  sprintf(): Too few arguments in /home/asifazaw/site.tritechteal.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Jul-2020 09:59:36 UTC] PHP Warning:  sprintf(): Too few arguments in /home/asifazaw/site.tritechteal.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-Jul-2020 09:59:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home/asifazaw/site.tritechteal.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 152

@@ -1,0 +1,974 @@
+# Copyright (C) 2020 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../plugins/softlab-core/wgl-core.php:51, ../../plugins/softlab-core/wgl-core.php:70
+msgid "\"Softlab-core\" Plugin requires with only \"Softlab\" theme!"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:8
+msgid "Extra profile information"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:12
+msgid "Instagram"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:15
+msgid "Please enter your instagram url."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:19
+msgid "Facebook"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:22
+msgid "Please enter your facebook url."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:26
+msgid "Linkedin"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:29
+msgid "Please enter your linkedin url."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:33
+msgid "Twitter"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper-functions.php:36
+msgid "Please enter your twitter url."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/meta-box-extensions/select_icon_field.php:57, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:283, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:90
+msgid "Icon"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/meta-box-extensions/select_icon_field.php:66
+msgid "Link"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/meta-box-extensions/select_icon_field.php:82
+msgid "Select an icon"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/theme-helper/theme-helper.php:73
+msgid "Socials"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:11
+msgid "WGL Author Said"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:12
+msgid "WGL Widget "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:52
+msgid "Featured author image: "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:64
+msgid "Featured author signature: "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:161, ../../plugins/softlab-core/includes/widgets/banner.php:177, ../../plugins/softlab-core/includes/widgets/posts.php:190, ../../plugins/softlab-core/includes/widgets/posts_hero.php:181
+msgid "Title:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:166
+msgid "Author Name:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:171
+msgid "Text:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:176
+msgid "Author Image:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:179, ../../plugins/softlab-core/includes/widgets/author.php:186, ../../plugins/softlab-core/includes/widgets/author.php:193, ../../plugins/softlab-core/includes/widgets/banner.php:151, ../../plugins/softlab-core/includes/widgets/banner.php:158
+msgid "Upload"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:183
+msgid "Background Image:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:190
+msgid "Author Signature:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:197
+msgid "Facebook:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:202
+msgid "Twitter:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:207
+msgid "Linkedin:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/author.php:212
+msgid "Instagram:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:11
+msgid "WGL Banner"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:12
+msgid "WGL Widget"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:56
+msgid "Featured image: "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:148
+msgid "Add Logotype image:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:155
+msgid "Add background image:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:162
+msgid "Padding Top: "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:167
+msgid "Padding Bottom: "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:172
+msgid "Sub Title:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:183
+msgid "Show Title Tags"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:187
+msgid "Button title:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/banner.php:192
+msgid "Button link:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:25
+msgid "Display recent posts by categories (or related)"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:28
+msgid "WGL Posts"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:120, ../../plugins/softlab-core/includes/widgets/posts_hero.php:111
+msgid "Permalink to "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:139, ../../plugins/softlab-core/includes/widgets/posts_hero.php:132
+msgid "No posts were found for display"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:178, ../../plugins/softlab-core/includes/widgets/posts_hero.php:170
+msgid "Recent Posts"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:195, ../../plugins/softlab-core/includes/widgets/posts_hero.php:186
+msgid "Number of posts:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:201, ../../plugins/softlab-core/includes/widgets/posts_hero.php:192
+msgid "Show related category posts"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:206
+msgid "Show thumbnail image"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:210, ../../plugins/softlab-core/includes/widgets/posts_hero.php:196
+msgid "Post meta info"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:215, ../../plugins/softlab-core/includes/widgets/posts_hero.php:201
+msgid "Show date"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:219
+msgid "Show content"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:223, ../../plugins/softlab-core/includes/widgets/posts_hero.php:208
+msgid "Filter by Category:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts.php:225, ../../plugins/softlab-core/includes/widgets/posts_hero.php:210
+msgid "All categories"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts_hero.php:25
+msgid "Display posts with overlay image"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts_hero.php:28
+msgid "WGL Posts Hero"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/widgets/posts_hero.php:205
+msgid "Show categories"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:27
+msgid "Footer"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:29
+msgid "Footers"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:42, ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:43, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:54, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:55, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:47, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:48
+msgid "Add New %s"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:44, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:56, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:49
+msgid "Edit %s"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:45, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:57, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:50
+msgid "New %s"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:46, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:58, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:51
+msgid "All %s"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:47, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:59, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:52
+msgid "View %s"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:48, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:60, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:53
+msgid "Search %s"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:49, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:61, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:54
+msgid "No %s found"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/footer/class-pt-footer.php:50, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:62, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:55
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:28
+msgid "Portfolio"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:29
+msgid "Item"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:30
+msgid "Items"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:92, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:93, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:79, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:80
+msgid "%s Categories"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:94, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:81
+msgid "%s Category"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:95, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:82
+msgid "Search %s Categories"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:96, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:83
+msgid "All %s Categories"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:97, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:84
+msgid "Parent %s Category"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:98, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:85
+msgid "Parent %s Category:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:99, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:86
+msgid "New %s Category Name"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:100, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:87
+msgid "Add New %s Category"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:101, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:88
+msgid "Edit %s Category"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:102, ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:89
+msgid "Update %s Category"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:118, ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:119
+msgid "Tags"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:120
+msgid "Tag"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:121
+msgid "Popular Tags"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:122
+msgid "Search Tag"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:123
+msgid "All Tags"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:126
+msgid "New Tag Name"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:127
+msgid "Add New Tag"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:128
+msgid "Edit Tag"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:129
+msgid "Update Tag"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/class-pt-portfolio.php:146
+msgid "Featured Image"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:28
+msgid "Team"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:29
+msgid "Member"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/team/class-pt-team.php:30
+msgid "Members"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:123
+msgid "WGL Select Item"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:152
+msgid "Toggle row"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:154
+msgid "Disabled row"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:159
+msgid "Edit this row"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:247
+msgid "Edit this column"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:249
+msgid "Add Item"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:272
+msgid "Select preset for start editing"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:279
+msgid "Save Changes"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:282
+msgid "WGL Header Options"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:312
+msgid "Are you sure want to delete the element?"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:82
+msgid "Notice"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:87
+msgid "We will reset all options inside header builder"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:90
+msgid "You can modify your header using header builder after choosing header builder template. Click \"Save Preset\", to save the header builder layout"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:96
+msgid "Add Preset"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:102
+msgid "Save"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:142
+msgid "Saved Templates"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:220
+msgid "Save Preset"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:226
+msgid "Rename"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:229
+msgid "Delete Preset"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:239
+msgid "Reset"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:285
+msgid "Delete Preset?"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:286
+msgid "Reset to default?"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:287
+msgid "Sorry this name is already exists"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:288
+msgid "Empty name"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:12, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:18
+msgid "Portfolio List"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:15, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:15
+msgid "WGL Modules"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:22
+msgid "Layout"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:27
+msgid "Grid"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:30, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:329, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:345, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:357, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:364, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:375, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:387, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:415, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:427, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:440, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:455, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:463, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:479, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:486, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:498, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:510, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:523, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:535, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:547, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:559, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:571, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:583, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:136, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:152, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:164, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:171, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:182, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:194, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:222, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:234, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:247, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:262, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:270, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:286, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:293, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:305, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:317, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:330, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:342, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:354, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:366, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:378, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:390
+msgid "Carousel"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:33
+msgid "Masonry"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:36
+msgid "Masonry 2"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:39
+msgid "Masonry 3"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:42
+msgid "Masonry 4"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:48
+msgid "Column"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:52, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:167
+msgid "1"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:53, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:168
+msgid "2"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:54, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:169
+msgid "3"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:55, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:170
+msgid "4"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:56, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:171
+msgid "5"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:66
+msgid "Show Filter"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:68, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:97
+msgid "Yes"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:79
+msgid "Filter Align"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:82, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:125, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:269, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:76
+msgid "Left"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:83, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:126, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:271, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:78
+msgid "Right"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:84, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:124, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:270, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:77
+msgid "Center"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:95
+msgid "Crop Images"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:103
+msgid "Navigation"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:108, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:810, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:617
+msgid "None"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:109
+msgid "Pagination"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:110
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:111, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:152
+msgid "Load More"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:113
+msgid "Select Type of Navigation"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:121
+msgid "Navigation's Alignment"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:128
+msgid "Select Navigation's Alignment."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:137
+msgid "Items on load"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:141
+msgid "Items load by load more button."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:150
+msgid "Button Name"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:162
+msgid "Grid Gap"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:166
+msgid "0"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:172
+msgid "10"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:173
+msgid "15"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:174
+msgid "20"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:175
+msgid "25"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:176
+msgid "30"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:177
+msgid "35"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:183
+msgid "Add Appear Animation"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:189
+msgid "Animation Style"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:192
+msgid "Fade In"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:193
+msgid "Slide Top"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:194
+msgid "Slide Bottom"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:195
+msgid "Slide Left"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:196
+msgid "Slide Right"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:197
+msgid "Zoom"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:208
+msgid "Extra Class"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:210
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:214, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:22
+msgid "Click Item"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:218, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:232, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:245, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:257, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:273, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:285, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:292, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:300, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:308, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:318, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:26, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:40, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:53, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:64, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:80, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:92, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:99, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:107, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:115, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:125
+msgid "Content"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:220, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:28
+msgid "Single"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:221, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:29
+msgid "Popup"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:222, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:30
+msgid "Custom Link"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:223, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:807, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:31, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:614
+msgid "Default"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:229, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:37
+msgid "Add Single Link to Title"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:237, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:45
+msgid "Show Info Position"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:241, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:49
+msgid "Inside Image"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:242, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:50
+msgid "Under Image"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:249, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:57
+msgid "Inside Image Animation"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:252
+msgid "Zoom In"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:253, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:60
+msgid "Outline"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:254, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:61
+msgid "Side Offset"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:255, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:62
+msgid "Always Show Info"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:265, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:72
+msgid "Horizontal Content Align"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:281, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:88
+msgid "Content Elements"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:289, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:96
+msgid "Show Title?"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:297, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:104
+msgid "Show categories?"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:305, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:112
+msgid "Show Content?"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:313, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:120
+msgid "Content Letter Count"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:316, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:123
+msgid "Enter content letter count."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:327, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:134
+msgid "Carousel Options"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:338, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:145
+msgid "Autoplay"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:349, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:156
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:361, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:168
+msgid "Multiple Items"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:373, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:180
+msgid "Pagination Controls"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:384, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:191
+msgid "Add Pagination control"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:396, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:203
+msgid "Pagination Type"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:401, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:208
+msgid "Circle"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:404, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:211
+msgid "Empty Circle"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:407, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:214
+msgid "Square"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:410, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:217
+msgid "Line"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:413, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:220
+msgid "Line - Circle"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:424, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:231
+msgid "Pagination Top Offset"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:429, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:236
+msgid "Enter pagination top offset in pixels."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:437, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:244
+msgid "Custom Pagination Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:448, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:255
+msgid "Pagination Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:461, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:268
+msgid "Responsive"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:472, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:279
+msgid "Customize Responsive"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:484, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:291
+msgid "Medium Desktop"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:495, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:532, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:568, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:302, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:339, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:375
+msgid "Screen resolution"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:507, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:544, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:580, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:314, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:351, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:387
+msgid "Slides to show"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:521, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:328
+msgid "Tablets"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:557, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:364
+msgid "Mobile Phones"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:595, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:402
+msgid "Typography"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:597, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:607, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:617, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:625, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:641, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:648, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:655, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:667, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:680, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:689, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:696, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:708, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:721, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:730, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:737, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:749, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:762, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:771, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:778, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:790, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:798, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:800, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:813, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:826, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:839, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:852, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:860, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:867, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:879, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:404, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:414, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:424, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:432, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:448, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:455, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:462, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:474, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:487, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:496, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:503, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:515, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:528, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:537, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:544, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:556, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:569, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:578, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:585, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:597, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:605, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:607, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:620, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:633, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:646, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:659, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:667, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:674, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:686
+msgid "Font"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:603, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:410
+msgid "Heading Font Size"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:606, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:413
+msgid "Enter heading font-size in pixels."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:613, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:420
+msgid "Categories Font Size"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:616, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:423
+msgid "Enter categories font-size in pixels."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:623, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:430
+msgid "Custom font family for Portfolio Headings"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:633, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:440
+msgid "Select font family."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:634, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:441
+msgid "Select font styling."
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:646, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:653, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:453, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:460
+msgid "Custom Heading Colors"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:660, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:701, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:742, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:783, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:808, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:872, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:467, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:508, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:549, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:590, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:615, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:679
+msgid "Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:673, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:714, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:755, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:480, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:521, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:562
+msgid "Hover Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:687, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:694, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:494, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:501
+msgid "Custom Categories Colors"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:728, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:735, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:535, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:542
+msgid "Custom Icons Colors"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:769, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:776, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:576, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:583
+msgid "Custom Content Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:796, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:603
+msgid "Custom Overlay Colors"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:804, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:611
+msgid "Background Custom Colors"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:809, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:616
+msgid "Gradient"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:818, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:625
+msgid "Background Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:821, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:628
+msgid "Select background color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:832, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:639
+msgid "Background Start Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:845, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:652
+msgid "Background End Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:858, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options.php:865, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:665, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:672
+msgid "Custom Secondary Overlay Color"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:12, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/options_slider.php:18
+msgid "Portfolio Slider"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/render.php:869, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/render_slider.php:857
+msgid "Share:"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/render.php:1053, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/render_slider.php:1039
+msgid "Tags: "
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/render.php:1097, ../../plugins/softlab-core/includes/post-types/portfolio/shortcodes/render_slider.php:1083
+msgid "All"
+msgstr ""
+
+#: ../../plugins/softlab-core/includes/post-types/portfolio/templates/archive-portfolio.php:88
+msgid "Category:"
+msgstr ""

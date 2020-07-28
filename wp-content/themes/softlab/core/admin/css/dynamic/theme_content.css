@@ -1,0 +1,295 @@
+/* ==================== ##General Styles ==================== */
+
+body {
+	font-family: $content_font_family;
+	font-size: $content_font_size;
+	line-height: $content_line_height;
+	font-weight: $content_font_weight;
+	color: $content_color;
+}
+
+/* ==================== ##End General Styles ==================== */
+
+/* ==================== ##Content Styles ==================== */
+
+#comments .commentlist .comment_info .meta-wrapper *,
+body .widget_categories ul li .post_count, 
+body .widget_product_categories ul li .post_count, 
+body .widget_meta ul li .post_count, 
+body .widget_archive ul li .post_count,
+.author-info_name,
+.blog-post_info-wrap > .meta-wrapper *,
+.softlab_module_message_box .message_content .message_title,
+.single-team .single_team_page .team-info_item h5 + span,
+.softlab_module_time_line_vertical .time_line-title{
+	font-family: $content_font_family;
+}
+
+select,
+blockquote cite,
+blockquote cite a,
+body .footer .select__field:before,
+ul.wgl-pagination li span,
+body input:not([type='checkbox']):not([type='submit'])::placeholder,
+select::placeholder,
+textarea::placeholder,
+.tagcloud a,
+.softlab_module_message_box .message_content .message_text,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.blog-post.format-quote .blog-post_quote-author-pos,
+.softlab_module_testimonials .testimonials_quote,
+.recent-posts-widget .meta-wrapper a:hover,
+.vc_row .vc_toggle .vc_toggle_icon{
+	color: $content_color;
+}
+
+.softlab_module_carousel .slick-prev:after, 
+.softlab_module_carousel .slick-next:after{
+	border-color: $content_color;
+}
+
+.softlab_module_title .external_link .button-read-more {
+	line-height: $content_line_height;
+}
+
+/* ==================== ##End Content Styles ==================== */
+
+/* ==================== ##Heading Styles ==================== */
+
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.page-header .page-header_title,
+.blog-post_cats,
+.column1 .item_title a,
+.softlab_twitter .twitt_title,
+.tagcloud-wrapper .title_tags,
+.strip_template .strip-item a span,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.shortcode_tab_item_title,
+.index_number,
+.primary-nav.footer-menu .menu-item a{
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+#main ol > li:before, 
+#comments .comment-reply-link,
+blockquote,
+blockquote:before,
+input[type="submit"], button,
+body .widget .widget-title,
+body .widget_rss ul li .rss-date,
+label,
+legend,
+.wgl-social-share_pages.hovered_style .share_social-title,
+.meta-wrapper span,
+.meta-wrapper,
+.blog-post_text-bg,
+.author-info_content .author-info_name,
+.blog-post_link>.link_post,
+.blog-post_quote-text,
+.button-read-more,
+.blog-post_meta_share .share_title,
+.blog-post_meta-date .date_post span,
+.custom-header-font,
+#comments .commentlist .comment_author_says,
+.comments-title .number-comments,
+.softlab_module_progress_bar .progress_label,
+.dropcap, .dropcap-bg,
+.softlab_module_double_headings,
+.softlab_module_infobox .infobox_icon_container .infobox_icon_number,
+.softlab_module_button.wgl_button .wgl_button_link,
+.softlab_module_pricing_plan .pricing_cur,
+.softlab_module_pricing_plan .pricing_price .price_decimal,
+.softlab_module_testimonials .testimonials_item:before,
+.softlab_module_testimonials .testimonials_status,
+.mashsb-count .counts,
+.mashsb-box .mashsb-buttons a .text,
+.prev-link,
+.next-link,
+.vc_row .vc_tta.vc_general.vc_tta-style-accordion_bordered .vc_tta-panel-title>a span,
+.widget.softlab_widget.softlab_banner-widget .banner-widget_text,
+.widget.softlab_widget.softlab_banner-widget .banner-widget_text_bg,
+.widget.softlab_widget.softlab_banner-widget .banner-widget_button,
+body .widget .widget-title .widget-title_wrapper:before,
+.blog-post_meta-categories a, 
+.blog-post_meta-categories span, 
+.blog-post_meta-date .date_post,
+.softlab_module_counter .counter_title,
+.softlab_module_videobox .title,
+.softlab_module_progress_bar .progress_value, 
+.softlab_module_progress_bar .progress_units,
+.softlab_module_counter .counter_value_wrapper, 
+.softlab_module_counter .counter_value_placeholder,
+.countdown-section .countdown-amount,
+.heading_subtitle,
+.info_prev-link_wrapper a,
+.info_next-link_wrapper a,
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_wrapper .team-info_item,
+.wgl_portfolio_item-meta .post_cats,
+.portfolio_info_item-info_desc h5,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta-tabs .vc_tta-tabs-list .vc_tta-tab > a,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta-tabs .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading a .vc_tta-title-text,
+.wgl_timetabs .timetabs_headings .wgl_tab .tab_title,
+.single_info-share_social-wpapper > span,
+.single-portfolio .wgl_portfolio_item-meta,
+.wgl_portfolio_item-cats,
+.wgl-pagination .page-numbers,
+.wpb-js-composer .wgl-container .vc_chart.vc_round-chart[data-vc-legend="1"] .vc_chart-legend li,
+.softlab_module_testimonials .testimonials_position,
+.softlab_module_pricing_plan .pricing_plan_wrap .pricing_price_wrap,
+.softlab_module_ico_progress .progress_value_completed,
+.softlab_module_ico_progress .progress_value_min,
+.softlab_module_ico_progress .progress_value_max,
+.softlab_module_ico_progress .progress_point{
+	font-family: $header_font_family;
+}
+
+.banner_404,
+.load_more_item,
+.softlab_module_time_line_horizontal .tlh_date,
+.wgl_portfolio_single-item .tagcloud .tagcloud_desc,
+.wgl_timetabs .timetabs_data .timetabs_item .item_time,
+.wgl_timetabs .timetabs_data .timetabs_item .content-wrapper .item_title,
+.wpb-js-composer .wgl-container .vc_row .vc_pie_chart .vc_pie_chart_value,
+.isotope-filter a{
+	font-family: $header_font_family;
+	color: $header_font_color;
+}
+
+#main .widget_recent_comments > ul > li:before,
+body .footer select option,
+blockquote,
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+input[type="submit"],
+button,
+h3#reply-title a,
+.prev-link-info_wrapper,
+.next-link-info_wrapper,
+.single_meta strong,
+.header_search.search_standard .header_search-field .search-form:after,
+.widget_product_search .woocommerce-product-search:after,
+.blog-posts .meta-wrapper a:hover,
+.meta-wrapper a:hover,
+.wgl-likes:hover .sl-count,
+.share_post-container:hover > a,
+.widget.softlab_widget.softlab_banner-widget .banner-widget_text,
+.page-header_breadcrumbs .breadcrumbs a:hover,
+.page-header_breadcrumbs .breadcrumbs span.current,
+.calendar_wrap tbody,
+.comment_author_says,
+.comment_author_says a,
+.custom-header-color,
+.single_meta .blog-post_share-wrap > span.share_title,
+.single_post_info.post_info .wgl-likes .sl-count,
+.softlab_module_counter .counter_title,
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.softlab_module_double_headings .heading_title,
+.softlab_module_testimonials .testimonials_item .testimonials_content_wrap .testimonials_name,
+.softlab_module_progress_bar .progress_label, 
+.softlab_module_pricing_plan .pricing_plan_wrap .pricing_content > ul > li > b,
+.tagcloud-wrapper .title_tags,
+body .widget_wgl_posts .recent-posts-widget .post_title a,
+.item_title a,
+.single_info-share_social-wpapper > span,
+.wgl_module_title.item_title .carousel_arrows a span:after,
+.wgl_module_team.info_under_image .team-department,
+body .widget .widget-title .widget-title_wrapper,
+.softlab_module_testimonials .testimonials_quote,
+.softlab_module_social .soc_icon,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle.vc_toggle_color_check.vc_toggle_active .vc_toggle_title .vc_toggle_icon,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_title,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_title,
+.wgl_portfolio_item-wrapper .portfolio_link,
+.page_404_wrapper .softlab_404_button .wgl_button_link,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-categories.wp-block-categories-list li a,
+ul.wp-block-latest-posts li a{
+	color: $header_font_color;
+}
+
+.softlab_module_title .carousel_arrows a span{
+	background: $header_font_color;
+}
+
+.softlab_module_infobox.infobox_alignment_left.title_divider .infobox_title:before,
+.softlab_module_infobox.infobox_alignment_right.title_divider .infobox_title:before{
+	background-color: $header_font_color;
+} 
+
+.softlab_module_title .carousel_arrows a span:before{
+	border-color: $header_font_color;
+}
+
+/* ==================== ##End Heading Styles ==================== */
+
+/* ==================== ##Double Heading Styles ==================== */
+
+.dbl_font{
+	font-family: $dbl_font_family !important;
+	font-weight: $dbl_font_weight !important;
+	font-style: italic !important;
+	font-size: inherit;
+	color: $dbl_font_color !important;
+}
+/* ==================== ##End Double Heading Styles ==================== */
+
+/* ==================== ##Secondary Styles ==================== */
+
+.wgl-theme-header .wgl-sticky-header .header_search{
+	height: $header_sticky_height !important;
+}    
+
+#scroll_up {
+	background-color: $scroll_up_bg_color;
+	color: $scroll_up_arrow_color;
+}
+
+/* menu fonts */
+.primary-nav>div>ul,
+.primary-nav>ul,
+.sitepress_container > .wpml-ls li,
+.primary-nav ul li.mega-menu-links > ul > li{
+	font-family: $menu_font_family;
+	font-weight: $menu_font_weight;
+	line-height: $menu_font_line_height;
+	font-size: $menu_font_size;
+}
+/* sub menu fonts */
+.primary-nav ul li ul, 
+.wpml-ls,
+.sitepress_container > .wpml-ls ul ul li,
+.primary-nav ul li div.mega-menu-container{
+	font-family: $sub_menu_font_family;
+	font-weight: $sub_menu_font_weight;
+	line-height: $sub_menu_font_line_height;
+	font-size: $sub_menu_font_size;	
+}
+
+/* sub menu styles */
+.wgl-theme-header .header_search-field,
+.primary-nav ul li ul,
+.primary-nav ul li div.mega-menu-container,
+.wgl-theme-header .woo_mini_cart,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language .wpml-ls-sub-menu{
+	background-color: $sub_menu_bg;
+	color: $sub_menu_color;
+}
+
+.mobile_nav_wrapper,
+.wgl-menu_outer,
+.mobile_nav_wrapper .primary-nav ul li ul.sub-menu,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul > li ul,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul{
+	background-color: $mobile_sub_menu_bg;
+	color: $mobile_sub_menu_color;		
+}
+
+/* ==================== ##End Secondary Styles ==================== */
